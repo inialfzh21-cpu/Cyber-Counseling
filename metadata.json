@@ -1,0 +1,6 @@
+{
+  "name": "CYBER-COUNSELING",
+  "description": "Media Pendukung Layanan Bimbingan dan Konseling (BK) bagi Siswa, Guru BK, dan Admin",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
